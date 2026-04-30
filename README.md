@@ -1,10 +1,10 @@
 # ataques-kali-metasploitable
-Aqui serão explorados alguns tipos de ataques que se pode simular com um lab utilizando o Kali Linux e o Metasploitable 2.
+Aqui serão simulados alguns tipos de ataques comuns de força bruta em um sistema vulnerável utilizando-se um laboratório virtual e o programa Medusa.
 
 # Softwares usados
 - [Oracle VirtualBox](https://www.virtualbox.org/)
-- [Kali Linux para VirtualBox] (https://www.kali.org/get-kali/#kali-virtual-machines)
-- [Metasploitable 2] (https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+- [Kali Linux para VirtualBox](https://www.kali.org/get-kali/#kali-virtual-machines)
+- [Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 
 # Configurações iniciais
 - Ambas as máquinas foram setadas para funcionar com 2 GB de RAM; foram separados 2 núcleos de processamento para o Kali e 1 para o Metasploitable.
